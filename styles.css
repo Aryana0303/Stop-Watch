@@ -1,0 +1,21 @@
+body {
+    background-color: #ECF2FF;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Tilt Neon', cursive;
+}
+
+.container{
+    margin-top: 150px;
+    margin-bottom: 20px;
+}
+
+.btn {
+    margin: 5px;
+}
+
+.hi{
+    width: 30%;
+}
